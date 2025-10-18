@@ -1,0 +1,12 @@
+{
+  "name": "Kalkulator HPP Boost Server Roblox",
+  "description": "A calculator to determine the cost of goods sold (HPP), profit, and margin for Roblox server boosting services. It helps sellers estimate costs, manage Robux inventory, and set prices effectively based on tiered Robux packages.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "technologies": [
+    "React 19",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS v4"
+  ]
+}
